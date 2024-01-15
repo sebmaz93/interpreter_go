@@ -1,1 +1,1 @@
-# interpreter_go
+# interpreter using go lang
